@@ -37,4 +37,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64/v8
           push: true
-          tags: dj/looking-glass-server:latest
+          tags: 1687219868/dj:looking-glass-serve
